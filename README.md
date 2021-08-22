@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**r4gesingh47/r4gesingh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**_r4gesingh47_**
 
-Here are some ideas to get you started:
+`Here Are some quick info about my skills:`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Image Processing **
+- 🌱 I’m currently learning **QT **
+- 👯 I’m looking to collaborate on **C++,Python projects**
+- 🤔 I’m looking for help with **Everything**
+- 💬 Ask me about **Anything**
+- 📫 How to reach me: **ravisinghrocks47@gmail.com** 
+- ⚡ Fun fact: ***Your wasted your time reading this !!!***
+
