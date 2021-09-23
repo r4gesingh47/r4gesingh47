@@ -4,9 +4,9 @@
 
 `Here Are some quick info about my skills:`
 
-- 🔭 I’m currently working on **Image Processing**
-- 🌱 I’m currently learning **QT**
-- 👯 I’m looking to collaborate on **C++,Python projects**
+- 🔭 I’m currently working on **Frontend Skills**
+- 🌱 I’m currently learning **Google cloud**
+- 👯 I’m looking to collaborate on **C++,Python projects,HTML,CSS,JS**
 - 🤔 I’m looking for help with **Everything**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **ravisinghrocks47@gmail.com** 
