@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with **Everything**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **ravisinghrocks47@gmail.com** 
-- ⚡ Fun fact: ***Your wasted your time reading this !!!***
+- ⚡ Fun fact: ***I am always free !!!***
 
 **Social Profiles**  
 [LinkedIn](https://www.linkedin.com/in/ravi-singh-3762171b1)  
