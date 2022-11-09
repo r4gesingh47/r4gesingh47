@@ -5,8 +5,8 @@
 `Here Are some quick info about my skills:`
 
 - 🔭 I’m currently working on **Frontend Skills**
-- 🌱 I’m currently learning **Google cloud**
-- 👯 I’m looking to collaborate on **C++,Python projects,HTML,CSS,JS**
+- 🌱 I’m currently learning **Azure Cloud Services**
+- 👯 I’m looking to collaborate on **Python, Django, Flask, FastAPI**
 - 🤔 I’m looking for help with **Everything**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: **ravisinghrocks47@gmail.com** 
@@ -20,4 +20,6 @@
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/-Django-green) 
+![](https://img.shields.io/badge/-Azure-blue) 
 
