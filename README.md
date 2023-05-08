@@ -4,8 +4,8 @@
 
 `Here Are some quick info about my skills:`
 
-- 🔭 I’m currently working on **Frontend Skills**
-- 🌱 I’m currently learning **Azure Cloud Services**
+- 🔭 I’m currently working on **Backend**
+- 🌱 I’m currently learning **Azure Cloud Services, ElasticSearch, Kafka, Rust, Go**
 - 👯 I’m looking to collaborate on **Python, Django, Flask, FastAPI**
 - 🤔 I’m looking for help with **Everything**
 - 💬 Ask me about **Anything**
